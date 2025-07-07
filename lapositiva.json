@@ -1,6 +1,6 @@
 {
-  "name": "radios",
-  "short_name": "MiBlogger",
+  "name": "Radioemisora",
+  "short_name": "radio La Posicitiva - chota",
   "start_url": "https://www.radioemisora.com/2025/07/radio-la-positiva-chota.html",
   "display": "standalone",
   "orientation": "portrait",

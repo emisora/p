@@ -1,7 +1,7 @@
 {
   "name": "SINAÍ Radio- Radioemisora",
   "short_name": "SINAÍ Radio Chota",
-  "start_url": "https://www.radioemisora.com/2025/07/radio-sinai-chota.html",
+  "start_url": "https://www.radioemisora.com/",
   "display": "standalone",
   "orientation": "any",
   "background_color": "#ffffff",

@@ -1,6 +1,6 @@
 {
   "name": "RADIOEMISORA",
-  "short_name": "Radioemisoras",
+  "short_name": "Radioemisora",
   "start_url": "https://www.radioemisora.com/",
   "display": "standalone",
   "orientation": "any",

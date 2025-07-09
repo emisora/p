@@ -1,0 +1,21 @@
+{
+  "name": "RADIOEMISORA",
+  "short_name": "Radioemisoras",
+  "start_url": "https://www.radioemisora.com/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "radioemisora-logo.png",
+      "sizes": "500x500",
+      "type": "image/png"
+    },
+    {
+      "src": "radioemisora-logo.png",
+      "sizes": "500x500",
+      "type": "image/png"
+    }
+  ]
+}
